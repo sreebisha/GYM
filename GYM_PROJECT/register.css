@@ -1,0 +1,52 @@
+
+.parent{
+    justify-content: space-between;
+    display: flex;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.one{
+  color: rgb(39, 6, 6);
+}
+.one a{
+    color: purple;
+}
+.two>input{
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: rgb(235, 65, 99);
+    font-weight: bold;
+    margin-left: 17px;
+}
+.two a{
+    border-radius: 5px;
+    padding: 12px 20px;
+    border:3px solid purple;
+}
+.three>input{
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: rgb(235, 65, 99);
+    font-weight: bold;
+    margin-left: 17px;
+    color: rgb(52, 173, 173);
+
+}
+.three a{
+    border-radius: 5px;
+    padding: 12px 20px;
+    border:3px solid purple;
+}
+.four>input{
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: rgb(235, 65, 99);
+    font-weight: bold;
+    margin-left: 17px;
+    color: black;
+}
